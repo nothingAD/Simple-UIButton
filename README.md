@@ -1,4 +1,4 @@
-# Simple-UIButton
+# Simple-UIButton for Unity UI
 
 ---
 
