@@ -1,6 +1,7 @@
-# Simple-UIButton for Unity UI
+# Simple-UIButton for Unity 2 UI
 
 ---
+Made and tested in Unity 2018
 
 A simple ui button panel for Unity (mobile)
 
