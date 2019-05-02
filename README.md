@@ -1,4 +1,4 @@
-# Simple-UIButton for Unity 2 UI
+# Simple-UIButton for Unity UI
 
 ---
 Made and tested in Unity 2018
